@@ -1,0 +1,12 @@
+{
+    "name": "rageshchalil/gdpr-onetrust",
+    "description": "OneTrust integration API",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ragesh Chalil",
+            "email": "ck.ragesh@gmail.com"
+        }
+    ]
+}

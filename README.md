@@ -1,2 +1,2 @@
 # gdpr-onetrust
-OneTrust GDRP Library
+OneTrust GDPR Library
