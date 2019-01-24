@@ -1,5 +1,8 @@
 # gdpr-onetrust
-OneTrust GDPR Library
+OneTrust GDPR Library displays an overlay on the website to make users aware of the fact that cookies are being set.
+The user may then give his/her consent or move to a page that provides more details regarding the cookies being dropped on the website.
+Consent is given by user accepting the agree with buttons or by continuing browsing the website.
+The library uses OnTrust services, so a UUID needs to be procured from OneTrust https://onetrust.com/.
 
 
 ## Installation
